@@ -1,0 +1,29 @@
+body {
+  padding-top: 50px;
+}
+.starter-template {
+  padding: 40px 15px;
+}
+
+.logo{
+margin-left: 0px;
+padding-top: 10px;	
+padding-right: 45px;
+padding-bottom: 15px;	
+}
+
+.lightbgd{
+     background: url("../assets/img/little_pluses_warm.png");	
+}
+
+
+.navbar-inverse{
+     background: url("../assets/img/black_denim.png");	
+}
+
+
+
+.btn-pad{
+	padding-left: 15px;
+}
+
