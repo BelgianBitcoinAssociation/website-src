@@ -50,18 +50,27 @@
           </button>
           <a class="navbar-brand" href="#">Belgian Bitcoin Association</a>
         </div>
-        <div class="collapse navbar-collapse">
+        <div class="collapse navbar-collapse" ng-controller="homeController">
           <ul class="nav navbar-nav navbar-right">
-            <li class="active">
-              <a href="#/home">Home</a>
+            <li>
+              <a href="#/home" ng-class="{ active : isActive('/home')}">Home</a>
             </li>
             <li>
+              <a href="#/about"ng-class="{ active : isActive('/about')}">About us</a>
+            </li>
+            <li>
+              <a href="#/members" ng-class="{ active : isActive('/members')}">Members</a>
+            </li>
+            <li>
+              <a href="#/press" ng-class="{ active : isActive('/press')}">Press Contact</a>
+            </li>
+            <!-- <li>
               <div class="btn-group btn-group-xs navbar-btn btn-pad">
                 <a href="#" class="btn navbar-btn btn-default">NL</a>
                 <a href="#" class="btn navbar-btn btn-default">FR</a>
                 <a href="#" class="btn navbar-btn btn-default">EN</a>
               </div>
-            </li>
+            </li> -->
           </ul>
         </div>
         <!--/.nav-collapse -->

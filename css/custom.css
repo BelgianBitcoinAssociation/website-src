@@ -6,24 +6,47 @@ body {
 }
 
 .logo{
-margin-left: 0px;
-padding-top: 10px;	
-padding-right: 45px;
-padding-bottom: 15px;	
+margin-left: 20px;
+margin-right: 25px;
+//padding-top: 15px;	
+//padding-left: 45px;
+//padding-bottom: 10px;
+width: 200px;
+height: auto;
+/*transform:rotate(180deg);
+-ms-transform:rotate(180deg); /* IE 9 */
+/*-webkit-transform:rotate(180deg); /* Safari and Chrome */	
 }
 
-.lightbgd{
-     background: url("../assets/img/little_pluses_warm.png");	
+.lightbgd{    
+/*    background: url("img/atomium.png") no-repeat no-repeat;*/
+background: url("/assets/img/little_pluses_warm.png");	
 }
 
 
 .navbar-inverse{
-     background: url("../assets/img/black_denim.png");	
+background: url("/assets/img/black_denim.png");	
 }
-
 
 
 .btn-pad{
 	padding-left: 15px;
 }
 
+.polaroid{
+	float: none;
+    margin: 0 auto;
+	width: 258px;
+	height: auto;
+	border: solid 1px;
+	padding: 10px;
+}
+
+.smallimg{
+	width: 100%;
+	height: auto;
+}
+
+.top-buffer { 
+	margin-top:20px; 
+}
