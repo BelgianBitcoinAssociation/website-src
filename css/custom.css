@@ -1,5 +1,6 @@
 body {
-  padding-top: 50px;
+padding-top: 50px;
+background: url("/assets/img/little_pluses_warm.png");
 }
 .starter-template {
   padding: 40px 15px;
@@ -8,9 +9,9 @@ body {
 .logo{
 margin-left: 20px;
 margin-right: 25px;
-//padding-top: 15px;	
-//padding-left: 45px;
-//padding-bottom: 10px;
+/*padding-top: 15px;	
+padding-left: 45px;
+padding-bottom: 10px;*/
 width: 200px;
 height: auto;
 /*transform:rotate(180deg);
@@ -19,15 +20,18 @@ height: auto;
 }
 
 .lightbgd{    
-/*    background: url("img/atomium.png") no-repeat no-repeat;*/
-background: url("/assets/img/little_pluses_warm.png");	
+
+background: url("/assets/img/little_pluses_warm_light.png");	
+/*background-color: white;*/
 }
 
+.navbar-inverse .navbar-nav>li:active {
+color: white;
+}
 
 .navbar-inverse{
 background: url("/assets/img/black_denim.png");	
 }
-
 
 .btn-pad{
 	padding-left: 15px;
@@ -40,6 +44,7 @@ background: url("/assets/img/black_denim.png");
 	height: auto;
 	border: solid 1px;
 	padding: 10px;
+	background-color: white;
 }
 
 .smallimg{
@@ -49,4 +54,18 @@ background: url("/assets/img/black_denim.png");
 
 .top-buffer { 
 	margin-top:20px; 
+}
+
+.lead {
+font-size: 23px;
+
+}
+
+.norm{
+font-size: 18px;
+
+}
+
+.minHeight {
+	min-height: 900px;
 }
