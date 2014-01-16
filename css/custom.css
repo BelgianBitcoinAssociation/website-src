@@ -68,4 +68,6 @@ font-size: 18px;
 
 .minHeight {
 	min-height: 900px;
+	padding-left: 100px;
+	padding-right: 100px;
 }
