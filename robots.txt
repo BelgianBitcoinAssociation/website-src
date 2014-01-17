@@ -1,2 +1,9 @@
+# robotstxt.org/
+
 User-agent: *
-Crawl-delay: 10
+Disallow: /assets
+Disallow: /assets/ico
+Disallow: /assets/img
+Disallow: /css
+Disallow: /js
+Allow: /templates
