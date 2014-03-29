@@ -4,7 +4,7 @@ title: "Belgian Regulators Issue Joint Bitcoin Warning"
 date: 2014-01-16 23:00:18 +0100
 comments: false
 author: Arne Brutschy
-categories: [In the news, News, Regulation]
+categories: [In the press, News, Regulation]
 ---
 The National Bank of Belgium (NBB) and the Belgian Financial Services and Markets Authority (FSMA) have issued a statement regarding bitcoin and it's volatility.i
 

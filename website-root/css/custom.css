@@ -6,6 +6,13 @@ body {
   padding: 40px 15px;
 }
 
+.fa-external-link {
+  color: #999;
+}
+.fa-external-link:hover {
+  color: white;
+}
+
 .logo{
   margin-left: 0;
   margin-right: 25px;
