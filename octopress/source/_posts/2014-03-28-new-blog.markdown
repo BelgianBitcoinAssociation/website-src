@@ -1,0 +1,8 @@
+---
+layout: post
+title: "Our new blog!"
+date: 2014-03-28 11:21:20 +0100
+comments: false
+author: Arne Brutschy
+categories: [Site]
+---
