@@ -31,9 +31,12 @@ body {
   background: url("/assets/img/little_pluses_warm.png");
   padding-left: 10px;
   padding-right: 10px;
-  padding-top: 30px;
 }
 
+.footer .container {
+  padding-top: 30px;
+/*  background: url("/assets/img/black_denim.png");	*/
+}
 .navbar-inverse .navbar-nav>li:active {
   color: white;
 }
@@ -95,7 +98,29 @@ body {
   font-weight: bold;
 }
 
+#membershipTable {
+  margin: 20px;
+  font-size: 18px;
+}
+#membershipTable tr>th {
+  padding: 10px;
+}
+#membershipTable tr>td {
+  padding: 10px;
+  vertical-align: top;
+}
+#membershipTable tr>td.head {
+  font-weight: bold;
+}
 
+.credit a {
+  color: rgb(102, 102, 102);
+}
+.credit a:hover {
+  color: rgb(87, 87, 87);
+}
+
+/*
 @media screen and (min-width: 480px) {
   .minHeight {
     min-height: 900px;
@@ -112,4 +137,4 @@ body {
     padding-right: 30px;
     padding-top: 30px;
   }
-}
+}*/
