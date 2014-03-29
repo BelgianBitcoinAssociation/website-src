@@ -35,26 +35,10 @@ app.run(function($rootScope, $location, $anchorScroll, $routeParams) {
 
 /*Page Controllers*/
 
-app.controller('homeController', function($scope, $location){
-
-	// this controller is supposed to set the menu item to active. It doesn't work
-	window.scope = $scope;
-	$scope.isActive = function (viewLocation) {
-		return viewLocation === $location.path();
-	};
-
-});
-
-app.controller('aboutController', function($scope, $location){
-
-});
-
-app.controller('membersController', function($scope, $location){
-
-});
-
-app.controller('pressController', function($scope, $location){
-
+app.controller('pageController', function($scope, $location){
+  $scope.isActive = function (viewLocation) {
+    return (viewLocation === $location.path());
+  };
 });
 
 /*Directives*/
