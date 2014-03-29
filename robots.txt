@@ -1,9 +1,0 @@
-# robotstxt.org/
-
-User-agent: *
-Disallow: /assets
-Disallow: /assets/ico
-Disallow: /assets/img
-Disallow: /css
-Disallow: /js
-Allow: /templates
