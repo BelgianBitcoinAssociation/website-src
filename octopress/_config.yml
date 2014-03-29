@@ -2,8 +2,8 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://blog.bitcoinassociation.be/
-title: Belgian Bitcoin Association - News
+url: http://www.bitcoinassociation.be/news/
+title: Belgian Bitcoin Association
 subtitle: Brining Bitcoin to Belgium!
 author: Belgian Bitcoin Association
 simple_search: https://www.google.com/search
@@ -19,14 +19,14 @@ date_format: "ordinal"
 subscribe_rss: /atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
-email:
+email: info@bitcoinassociation.be
 
 # ----------------------- #
 #    Jekyll & Plugins     #
 # ----------------------- #
 
 # If publishing to a subdirectory as in http://site.com/project set 'root: /project'
-root: /
+root: /news
 permalink: /blog/:year/:month/:day/:title/
 source: source
 destination: public
