@@ -10,8 +10,8 @@ The [Belgian Bitcoin Association](http://www.bitcoinassociation.be/) is now offi
 
 Official charter of the association:
 
- * [Nederlandstalige versie](/files/BBA-Charter-NL-20140213.pdf)
- * [Version française](/files/BBA-Charter-FR-20140213.pdf)
- * [English version](/files/BBA-Charter-EN-20140213.pdf)
+ * [Nederlandstalige versie](http://www.bitcoinassociation.be/files/BBA-Charter-NL-20140213.pdf)
+ * [Version française](http://www.bitcoinassociation.be/files/BBA-Charter-FR-20140213.pdf)
+ * [English version](http://www.bitcoinassociation.be/files/BBA-Charter-EN-20140213.pdf)
 
 Our registration number: 0546.540.263
