@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Our new blog"
+date: 2014-03-28 11:21:20 +0100
+comments: false
+author: Arne Brutschy
+categories: [News]
+---
+So, this is our new blog. We will be re-posting all older news
+here, backdated. More to come!
