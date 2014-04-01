@@ -12,15 +12,26 @@ The Belgian Bitcoin Association is proud to announce that the local scientific c
 
 <!-- more -->
 
+Nederlandstalige versie zie hieronder
 English version see below
 
 ####Version française####
+
 [IRIDIA](http://iridia.ulb.ac.be/) est un laboratoire de [l’Université Libre de Bruxelles](http://www.ulb.ac.be) et leader en intelligence artificielle.
 Les chercheurs au sein d’IRIDIA étudient les systèmes décentralisés et auto-organisés, comme des groupes de robots imitant les insectes sociaux. Le concept novateur de bitcoin est par conséquent d’un grand intéret pour le groupe de recherche.
 
-IRIDIA a été l’un des principaux incubateurs de la scène bitcoin belge. Au laboratoire, certains chercheurs ont crée un groupe de discussion régulier, qui est plus tard devenu le “meetup groupe” de Bruxelles, l’un des plus anciens dans le monde et des plus importants en Europe. Le groupe, à son tour, fut un catalyseur majeur pour la création de l’association nationale récemment établie: la [Belgian Bitcoin          Association](http://www.bitcoinassociation.be/).
+IRIDIA a été l’un des principaux incubateurs de la scène bitcoin belge. Au laboratoire, certains chercheurs ont crée un groupe de discussion régulier, qui est plus tard devenu le “meetup groupe” de Bruxelles, l’un des plus anciens dans le monde et des plus importants en Europe. Le groupe, à son tour, fut un catalyseur majeur pour la création de l’association nationale récemment établie: la [Belgian Bitcoin Association](http://www.bitcoinassociation.be/).
 
 IRIDIA organise bi-annuellement la principale conférence internationale sur la swarm intelligence (l’intelligence en essaim): [ANTS](http://iridia.ulb.ac.be/ants2014).  Aujourd’hui, IRIDIA, en collaboration avec la Belgian Bitcoin Association, est fière d’annoncer que l’édition de cette année de la conférence acceptera bitcoin comme moyen de paiement pour les inscriptions. Cela fait de ANTS la première conférence scientifique à accepter bitcoin.
+
+----------------------
+
+####Nederlandstalige versie####
+
+[IRIDIA](http://iridia.ulb.ac.be/) is een gerenomeerd artificieel intelligentie laboratorium, gevestigd aan de [Université Libre de Bruxelles](http://www.ulb.ac.be), in Brussel, België. De onderzoekers van IRIDIA bestuderen zelf-organiserende, gedecentraliseerde systemen zoals zwermen robots. Hierdoor is er vanuit de onderzoeksgroep dan ook grote interesse in het Bitcoin concept.
+IRIDIA was ook een van de eerste en grootste incubators van de Belgische Bitcoin scene. In het lab startten enkele onderzoekers een discussiegroep, die later evolueerde in de "Brussels Bitcoin meetup group". Een van de oudste in de wereld en grootste in Europa. Die groep was op zich een belangrijke catalysator in de creatie van de recent opgerichte [Belgian Bitcoin Association](http://www.bitcoinassociation.be/).
+
+IRIDIA organiseert tweejaarlijks de belangrijkste internationale conferentie over zwerm intelligentie: [ANTS](http://iridia.ulb.ac.be/ants2014). Vandaag is IRIDIA, in samenwerking met de Belgian Bitcoin Association, trots u te kunnen meedelen dat de conferentie dit jaar ook Bitcoins accepteert als betaalmiddel voor de registratie. Dit maakt dat ANTS de eerste wetenschappelijke conferentie is die Bitcoins aanvaard.
 
 ----------------------
 
