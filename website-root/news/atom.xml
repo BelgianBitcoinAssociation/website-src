@@ -4,7 +4,7 @@
   <title><![CDATA[Belgian Bitcoin Association]]></title>
   <link href="http://www.bitcoinassociation.be/news//atom.xml" rel="self"/>
   <link href="http://www.bitcoinassociation.be/news//"/>
-  <updated>2014-05-14T15:03:32+02:00</updated>
+  <updated>2014-05-14T15:29:08+02:00</updated>
   <id>http://www.bitcoinassociation.be/news//</id>
   <author>
     <name><![CDATA[Belgian Bitcoin Association]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Bitcoin 2014 Conference]]></title>
+    <link href="http://www.bitcoinassociation.be/news//blog/2014/05/14/bitcoin-2014-conference/"/>
+    <updated>2014-05-14T15:23:59+02:00</updated>
+    <id>http://www.bitcoinassociation.be/news//blog/2014/05/14/bitcoin-2014-conference</id>
+    <content type="html"><![CDATA[<p>All Directors of the Belgian Bitcoin Association will attend the May 15th-17th <a href="http://bitcoin2014.com">#Bitcoin2014</a> conference in Amsterdam. Some Directors will join a pre-conference roundtable meeting of European digital currency groups and associations.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Bitcoin explained at TriFinance]]></title>
@@ -283,15 +292,6 @@ IRIDIA was ook een van de eerste en grootste incubators van de Belgische Bitcoin
     <updated>2014-01-09T21:53:50+01:00</updated>
     <id>http://www.bitcoinassociation.be/news//blog/2014/01/09/jeremie-dubois-lacoste-on-beleurope-of-belrtl</id>
     <content type="html"><![CDATA[<p>Short live interview of <em>Jérémie Dubois-Lacoste</em> to explain what is Bitcoin, along with Chantal Hughes, spokesperson of the European Commission speaking from Frankfurt. On the program <a href="http://www.rtl.be/videobelrtl/video/472129.aspx?CategoryID=4590">Bel Europe</a> of the radio <em>&ldquo;Bel RTL&rdquo;</em>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Thomas Spaas appears on Het Journaal 7]]></title>
-    <link href="http://www.bitcoinassociation.be/news//blog/2013/11/28/thomas-spaas-appears-on-het-journaal-7/"/>
-    <updated>2013-11-28T21:44:43+01:00</updated>
-    <id>http://www.bitcoinassociation.be/news//blog/2013/11/28/thomas-spaas-appears-on-het-journaal-7</id>
-    <content type="html"><![CDATA[<p><em>Thomas Spaas</em> appears on <a href="http://www.deredactie.be/permalink/2.30897?video=1.1789752">Het Journaal 7</a> from Een. He orders a pizza via <a href="http://www.pizza.be/">Pizza.be</a> and positions Bitcoin as an alternative currency.</p>
 ]]></content>
   </entry>
   
