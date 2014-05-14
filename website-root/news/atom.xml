@@ -4,7 +4,7 @@
   <title><![CDATA[Belgian Bitcoin Association]]></title>
   <link href="http://www.bitcoinassociation.be/news//atom.xml" rel="self"/>
   <link href="http://www.bitcoinassociation.be/news//"/>
-  <updated>2014-04-01T12:17:14+02:00</updated>
+  <updated>2014-05-14T15:03:32+02:00</updated>
   <id>http://www.bitcoinassociation.be/news//</id>
   <author>
     <name><![CDATA[Belgian Bitcoin Association]]></name>
@@ -12,6 +12,24 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Bitcoin explained at TriFinance]]></title>
+    <link href="http://www.bitcoinassociation.be/news//blog/2014/05/12/bitcoin-explained-at-trifinance/"/>
+    <updated>2014-05-12T00:00:00+02:00</updated>
+    <id>http://www.bitcoinassociation.be/news//blog/2014/05/12/bitcoin-explained-at-trifinance</id>
+    <content type="html"><![CDATA[<p>Thomas Spaas and Jean Wallemacq present Bitcoin, its relevance, its working, merchants accepting it in Belgium, along with some of the fiscal, legal, regulatory &amp; overall challenges associated with Bitcoin, at <a href="http://www.trifinance.be">TriFinance</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Bitcoin explained at Rotary-Bruxelles-Sud]]></title>
+    <link href="http://www.bitcoinassociation.be/news//blog/2014/05/07/bitcoin-explained-at-rotary-bruxelles-sud/"/>
+    <updated>2014-05-07T00:00:00+02:00</updated>
+    <id>http://www.bitcoinassociation.be/news//blog/2014/05/07/bitcoin-explained-at-rotary-bruxelles-sud</id>
+    <content type="html"><![CDATA[<p>Jean Wallemacq presents Bitcoin, its relevance, its working, merchants accepting it in Belgium, along with some of the challenges associated with Bitcoin, at the Bruxelles-Sud chapter of Rotary.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Thomas Spaas' TEDx talk in Hasselt]]></title>
@@ -274,37 +292,6 @@ IRIDIA was ook een van de eerste en grootste incubators van de Belgische Bitcoin
     <updated>2013-11-28T21:44:43+01:00</updated>
     <id>http://www.bitcoinassociation.be/news//blog/2013/11/28/thomas-spaas-appears-on-het-journaal-7</id>
     <content type="html"><![CDATA[<p><em>Thomas Spaas</em> appears on <a href="http://www.deredactie.be/permalink/2.30897?video=1.1789752">Het Journaal 7</a> from Een. He orders a pizza via <a href="http://www.pizza.be/">Pizza.be</a> and positions Bitcoin as an alternative currency.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Thomas Spaas interview in De Morgen]]></title>
-    <link href="http://www.bitcoinassociation.be/news//blog/2013/11/23/thomas-spaas-interview-in-de-morgen/"/>
-    <updated>2013-11-23T21:43:14+01:00</updated>
-    <id>http://www.bitcoinassociation.be/news//blog/2013/11/23/thomas-spaas-interview-in-de-morgen</id>
-    <content type="html"><![CDATA[<p>Thomas Spaas is interviewed by Sara Engelen in De Morgen.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Foundation of the association]]></title>
-    <link href="http://www.bitcoinassociation.be/news//blog/2013/11/20/foundation-of-the-association/"/>
-    <updated>2013-11-20T21:31:42+01:00</updated>
-    <id>http://www.bitcoinassociation.be/news//blog/2013/11/20/foundation-of-the-association</id>
-    <content type="html"><![CDATA[<p>Today, the <em>Belgian Bitcoin Association</em> was officialy founded!</p>
-
-<p>Here&rsquo;s a short summary of the inauguration meeting.</p>
-
-<ol>
-<li>We discussed various points of the draft charter and agreed to a final version. All decisions have been voted on and accepted
-unanimously. Thomas is currently preparing the English version, which will then be translated into Dutch and French.</li>
-<li>We elected the director for a 1-year term. As Filip already said, the directors are Filip, Chris, Jérémie, Jean, Thomas and me.</li>
-</ol>
-
-
-<p>What next? We will translate the charter and send it to all of you. Furthermore, Thomas will file the association&rsquo;s papers with the state, which will be the actual inauguration of the association. We will send the full minutes of the meeting during the next days.</p>
-
-<p>The board will meet soon to discuss the next steps &ndash; for now mostly technicalities such as organizing how to communicate, website etc.</p>
 ]]></content>
   </entry>
   
