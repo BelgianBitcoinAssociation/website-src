@@ -4,7 +4,7 @@
   <title><![CDATA[Belgian Bitcoin Association]]></title>
   <link href="http://www.bitcoinassociation.be/news//atom.xml" rel="self"/>
   <link href="http://www.bitcoinassociation.be/news//"/>
-  <updated>2014-05-14T15:29:08+02:00</updated>
+  <updated>2014-06-10T09:55:45+02:00</updated>
   <id>http://www.bitcoinassociation.be/news//</id>
   <author>
     <name><![CDATA[Belgian Bitcoin Association]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Again, an extended feature on Bitcoin in L'Echo]]></title>
+    <link href="http://www.bitcoinassociation.be/news//blog/2014/06/07/again/"/>
+    <updated>2014-06-07T00:00:00+02:00</updated>
+    <id>http://www.bitcoinassociation.be/news//blog/2014/06/07/again</id>
+    <content type="html"><![CDATA[<p>A 2-page feature in <a href="http://www.lecho.be/r/t/1/id/9510610">L&#8217;Echo</a>, with title: &ldquo;Bitcoin La révolution est en marche&rdquo;.  Jérémie Dubois-Lacoste is interviewed and voices a <a href="http://www.lecho.be/r/t/1/id/9510614">strong opinion</a>: &ldquo;Les monnaies classiques ont perdu leur crédibilité&rdquo;.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Bitcoin 2014 Conference]]></title>
@@ -283,15 +292,6 @@ IRIDIA was ook een van de eerste en grootste incubators van de Belgische Bitcoin
     <updated>2014-01-11T21:58:00+01:00</updated>
     <id>http://www.bitcoinassociation.be/news//blog/2014/01/11/jeremie-dubois-lacoste-on-radio-bfm</id>
     <content type="html"><![CDATA[<p>In the program <a href="http://www.bfmtv.com/grille/bfmbusiness/podcast-radio/23066/">500 millions d&#8217;européens</a> from the French radio BFM (but recorded within the European Parliament studio), <em>Jérémie Dubois-Lacoste</em> explains what is Bitcoin and answers a few questions, along with Constance Le Grip European MP, Axel de Martene from the European Commission, Philippe Dardier CEO of Alternativa, Florence Autret of La Tribune and of l&#8217;Agefi, and Fred Cauderlier from the MR.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Jérémie Dubois-Lacoste on BelEurope of BelRTL]]></title>
-    <link href="http://www.bitcoinassociation.be/news//blog/2014/01/09/jeremie-dubois-lacoste-on-beleurope-of-belrtl/"/>
-    <updated>2014-01-09T21:53:50+01:00</updated>
-    <id>http://www.bitcoinassociation.be/news//blog/2014/01/09/jeremie-dubois-lacoste-on-beleurope-of-belrtl</id>
-    <content type="html"><![CDATA[<p>Short live interview of <em>Jérémie Dubois-Lacoste</em> to explain what is Bitcoin, along with Chantal Hughes, spokesperson of the European Commission speaking from Frankfurt. On the program <a href="http://www.rtl.be/videobelrtl/video/472129.aspx?CategoryID=4590">Bel Europe</a> of the radio <em>&ldquo;Bel RTL&rdquo;</em>.</p>
 ]]></content>
   </entry>
   
