@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Again, an extended feature on Bitcoin in L'Echo"
+date: 2014-06-07
+comments: true
+categories: 
+---
+
+A 2-page feature in [L'Echo](http://www.lecho.be/r/t/1/id/9510610), with title: "Bitcoin La révolution est en marche".  Jérémie Dubois-Lacoste is interviewed and voices a [strong opinion](http://www.lecho.be/r/t/1/id/9510614): "Les monnaies classiques ont perdu leur crédibilité". 
