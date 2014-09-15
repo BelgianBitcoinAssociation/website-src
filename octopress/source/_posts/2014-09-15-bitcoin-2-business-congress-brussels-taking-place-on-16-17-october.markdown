@@ -7,10 +7,8 @@ categories: Events
 ---
 
 test 1:
-{% img img/btc2b_logo.png %}
+{% img btc2b_logo.png %}
 
-test 2:
-![btc2b_logo]({{ site.url }}/assets/img/btc2b_logo.png)
 
 
 Brussels will host one of the major Bitcoin events in Europe. Bitcoin 2 Business Congress will focus on the Start-up show, B2B meetings, debates, speeches by well-known speakers such as Matthew Roszak, Vitalik Buterin, Jacob Hansen, Brett Stapper and many others. Get more info at the website [www.btc2b.com](http://www.btc2b.com) or contact [congress@btc2b.com](http://congress@btc2b.com) in case of any questions.
