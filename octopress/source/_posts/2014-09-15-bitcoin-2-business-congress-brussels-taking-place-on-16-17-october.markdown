@@ -7,7 +7,7 @@ categories: Events
 ---
 
 test 1:
-{% img btc2b_logo.png %}
+{% img center /images/btc2b_logo.png %}
 
 
 
