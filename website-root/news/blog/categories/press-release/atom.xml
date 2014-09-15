@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Press release | Belgian Bitcoin Association]]></title>
   <link href="http://www.bitcoinassociation.be/news//blog/categories/press-release/atom.xml" rel="self"/>
   <link href="http://www.bitcoinassociation.be/news//"/>
-  <updated>2014-09-15T17:39:28+02:00</updated>
+  <updated>2014-09-15T17:43:00+02:00</updated>
   <id>http://www.bitcoinassociation.be/news//</id>
   <author>
     <name><![CDATA[Belgian Bitcoin Association]]></name>
@@ -20,7 +20,7 @@
     <id>http://www.bitcoinassociation.be/news//blog/2014/03/17/bitcoin-accepted-by-belgian-scientific-conference</id>
     <content type="html"><![CDATA[<p>The Belgian Bitcoin Association is proud to announce that the local scientific conference for swarm intelligence is now accepting bitcoin!</p>
 
-<p><div class="embed-video-container"><iframe width="480" height="360" src="http://www.youtube.com/embed/vjJ02KDfG2o " frameborder="0" allowfullscreen></iframe></div></p>
+<p>{% youtube vjJ02KDfG2o %}</p>
 
 <!-- more -->
 
