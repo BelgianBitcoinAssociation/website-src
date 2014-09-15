@@ -7,12 +7,12 @@ categories:
 ---
 
 
-{% img center /images/btc2b_logo.png 250 250 %}
+{% img center /images/euro-bitcoin-avatar.jpg 250 250 %}
 
-The First french-speaking Bitcoin conference in Europe will take place in Paris on October 8th, 2014.
+The first french-speaking Bitcoin conference in Europe will take place in Paris on October 8th, 2014.
 [Euro Bitcoin](http://eurobitcoin.org) will be held at the Bibliothèque François Mitterrand (BNF).
 
-The event is organized by the [http://bitcoin-france.org/](Association Bitcoin France), with the support of the [http://www.bitcoinassociation.be](Belgian Bitcoin Association) and the [http://bitcoinassociation.ch/](Swiss Bitcoin Association Switzerland).
+The event is organized by the [Association Bitcoin France](http://bitcoin-france.org), with the support of the Belgian Bitcoin Association and the [Swiss Bitcoin Association Switzerland](http://bitcoinassociation.ch).
 It will feature an interesting pannel of speakers from various horizon (both inside and outside the bitcoin community), both in French and English.
 
 If you are a business, there are still few sponsorship opportunities open.
