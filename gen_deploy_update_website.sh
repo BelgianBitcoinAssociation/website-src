@@ -2,7 +2,7 @@
 
 branch=$(git branch | grep "^*" | cut -d ' ' -f 2)
 
-if [ $branch != "staging"]
+if [ $branch != "staging" ]
 then
     echo "You're not on staging branch!"
     exit 1
