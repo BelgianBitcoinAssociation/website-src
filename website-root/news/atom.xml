@@ -4,7 +4,7 @@
   <title><![CDATA[Belgian Bitcoin Association]]></title>
   <link href="http://www.bitcoinassociation.be/news//atom.xml" rel="self"/>
   <link href="http://www.bitcoinassociation.be/news//"/>
-  <updated>2014-06-11T11:49:28+02:00</updated>
+  <updated>2014-09-15T18:46:13+02:00</updated>
   <id>http://www.bitcoinassociation.be/news//</id>
   <author>
     <name><![CDATA[Belgian Bitcoin Association]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Bitcoin 2 Business Congress Brussels taking place on 16-17 October]]></title>
+    <link href="http://www.bitcoinassociation.be/news//blog/2014/09/15/bitcoin-2-business-congress-brussels-taking-place-on-16-17-october/"/>
+    <updated>2014-09-15T17:16:43+02:00</updated>
+    <id>http://www.bitcoinassociation.be/news//blog/2014/09/15/bitcoin-2-business-congress-brussels-taking-place-on-16-17-october</id>
+    <content type="html"><![CDATA[<p><img class="center" src="http://www.bitcoinassociation.be/news//images/btc2b_logo.png" width="720" height="200"></p>
+
+<p>Brussels will host one of the major Bitcoin events in Europe. Bitcoin 2 Business Congress will focus on the Start-up show, B2B meetings, debates, speeches by well-known speakers such as Matthew Roszak, Vitalik Buterin, Jacob Hansen, Brett Stapper and many others. Get more info at the website <a href="http://www.btc2b.com">www.btc2b.com</a> or contact <a href="mailto:congress@btc2b.com">congress@btc2b.com</a> in case of any questions.</p>
+
+<p>There is also discount code for BBA members, contact us or <a href="mailto:congress@btc2b.com">congress@btc2b.com</a> for more info.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Again, an extended feature on Bitcoin in L'Echo]]></title>
@@ -283,15 +296,6 @@ IRIDIA was ook een van de eerste en grootste incubators van de Belgische Bitcoin
 <li><a href="http://www.coindesk.com/belgium-central-bank-remains-positive-about-bitcoin-unofficially/">Belgium Central Bank Remains Positive About Bitcoin, Unofficially</a></li>
 </ul>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Jérémie Dubois-Lacoste on radio BFM]]></title>
-    <link href="http://www.bitcoinassociation.be/news//blog/2014/01/11/jeremie-dubois-lacoste-on-radio-bfm/"/>
-    <updated>2014-01-11T21:58:00+01:00</updated>
-    <id>http://www.bitcoinassociation.be/news//blog/2014/01/11/jeremie-dubois-lacoste-on-radio-bfm</id>
-    <content type="html"><![CDATA[<p>In the program <a href="http://www.bfmtv.com/grille/bfmbusiness/podcast-radio/23066/">500 millions d&#8217;européens</a> from the French radio BFM (but recorded within the European Parliament studio), <em>Jérémie Dubois-Lacoste</em> explains what is Bitcoin and answers a few questions, along with Constance Le Grip European MP, Axel de Martene from the European Commission, Philippe Dardier CEO of Alternativa, Florence Autret of La Tribune and of l&#8217;Agefi, and Fred Cauderlier from the MR.</p>
 ]]></content>
   </entry>
   
