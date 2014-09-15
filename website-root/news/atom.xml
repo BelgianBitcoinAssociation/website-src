@@ -4,7 +4,7 @@
   <title><![CDATA[Belgian Bitcoin Association]]></title>
   <link href="http://www.bitcoinassociation.be/news//atom.xml" rel="self"/>
   <link href="http://www.bitcoinassociation.be/news//"/>
-  <updated>2014-09-15T18:46:13+02:00</updated>
+  <updated>2014-09-15T19:34:52+02:00</updated>
   <id>http://www.bitcoinassociation.be/news//</id>
   <author>
     <name><![CDATA[Belgian Bitcoin Association]]></name>
@@ -12,6 +12,26 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[EURO BITCOIN: The first French-speaking Bitcoin conference in Europe]]></title>
+    <link href="http://www.bitcoinassociation.be/news//blog/2014/09/15/the-first-french-speaking-bitcoin-conference-in-europe/"/>
+    <updated>2014-09-15T19:01:40+02:00</updated>
+    <id>http://www.bitcoinassociation.be/news//blog/2014/09/15/the-first-french-speaking-bitcoin-conference-in-europe</id>
+    <content type="html"><![CDATA[<p><img class="center" src="http://www.bitcoinassociation.be/news//images/btc2b_logo.png" width="250" height="250"></p>
+
+<p>The First french-speaking Bitcoin conference in Europe will take place in Paris on October 8th, 2014.
+<a href="http://eurobitcoin.org">Euro Bitcoin</a> will be held at the Bibliothèque François Mitterrand (BNF).</p>
+
+<p>The event is organized by the <a href="Association%20Bitcoin%20France">http://bitcoin-france.org/</a>, with the support of the <a href="Belgian%20Bitcoin%20Association">http://www.bitcoinassociation.be</a> and the <a href="Swiss%20Bitcoin%20Association%20Switzerland">http://bitcoinassociation.ch/</a>.
+It will feature an interesting pannel of speakers from various horizon (both inside and outside the bitcoin community), both in French and English.</p>
+
+<p>If you are a business, there are still few sponsorship opportunities open.</p>
+
+<p>You can <strong>get a discount as a BBA member</strong>, contact us for more information.
+The Belgian Bitcoin Association may also organize a joint trip to attend the event if enough people are interested, don&rsquo;t hesitate to get in touch with us!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Bitcoin 2 Business Congress Brussels taking place on 16-17 October]]></title>
@@ -277,25 +297,6 @@ IRIDIA was ook een van de eerste en grootste incubators van de Belgische Bitcoin
     <updated>2014-01-17T21:59:44+01:00</updated>
     <id>http://www.bitcoinassociation.be/news//blog/2014/01/17/jeremie-dubois-lacoste-on-regional-tv</id>
     <content type="html"><![CDATA[<p>In the magazine <a href="http://www.telebruxelles.net/portail/emissions/magazines-a-voir-en-ligne/m-le-mag-de-la-redac/29569-m-17012014">#M</a> of the regional TV <em>&ldquo;Télé Bruxelles&rdquo;</em>, <em>Jérémie Dubois-Lacoste</em> presents the basics of Bitcoin, along with Lawrence Flessie, from <a href="http://www.pizza.be">Pizza.be</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Belgian Regulators Issue Joint Bitcoin Warning]]></title>
-    <link href="http://www.bitcoinassociation.be/news//blog/2014/01/16/belgian-regulators-issue-joint-bitcoin-warning/"/>
-    <updated>2014-01-16T23:00:18+01:00</updated>
-    <id>http://www.bitcoinassociation.be/news//blog/2014/01/16/belgian-regulators-issue-joint-bitcoin-warning</id>
-    <content type="html"><![CDATA[<p>The National Bank of Belgium (NBB) and the Belgian Financial Services and Markets Authority (FSMA) have issued a statement regarding bitcoin and it&rsquo;s volatility.i</p>
-
-<p><a href="http://www.nbb.be/doc/ts/Enterprise/Press/2014/cp140114En.pdF">Download PDF</a></p>
-
-<p>Related articles on CoinDesk:</p>
-
-<ul>
-<li><a href="http://www.coindesk.com/belgian-regulators-issue-joint-bitcoin-warning/">Belgian Regulators Issue Joint Bitcoin Warning</a></li>
-<li><a href="http://www.coindesk.com/belgium-central-bank-remains-positive-about-bitcoin-unofficially/">Belgium Central Bank Remains Positive About Bitcoin, Unofficially</a></li>
-</ul>
-
 ]]></content>
   </entry>
   
