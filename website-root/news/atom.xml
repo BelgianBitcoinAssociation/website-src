@@ -4,7 +4,7 @@
   <title><![CDATA[Belgian Bitcoin Association]]></title>
   <link href="http://www.bitcoinassociation.be/news//atom.xml" rel="self"/>
   <link href="http://www.bitcoinassociation.be/news//"/>
-  <updated>2014-09-15T19:45:55+02:00</updated>
+  <updated>2014-10-02T13:46:21+02:00</updated>
   <id>http://www.bitcoinassociation.be/news//</id>
   <author>
     <name><![CDATA[Belgian Bitcoin Association]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[EURO BITCOIN postponed]]></title>
+    <link href="http://www.bitcoinassociation.be/news//blog/2014/10/02/euro-bitcoin-postponed/"/>
+    <updated>2014-10-02T13:41:21+02:00</updated>
+    <id>http://www.bitcoinassociation.be/news//blog/2014/10/02/euro-bitcoin-postponed</id>
+    <content type="html"><![CDATA[<p>The &ldquo;Euro Bitcoin&rdquo; conference scheduled to take place on October 8th in Paris has been postponed.
+According to <a href="http://bitcoin-france.org/2014/10/01/conference-euro-bitcoin-reportee-2015/">French association</a>, the conference will take place beginning of 2015.
+If you bought your ticket already, you will be of course reimbursed.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[EURO BITCOIN: The first French-speaking Bitcoin conference in Europe]]></title>
@@ -288,15 +299,6 @@ IRIDIA was ook een van de eerste en grootste incubators van de Belgische Bitcoin
     <updated>2014-01-18T22:05:16+01:00</updated>
     <id>http://www.bitcoinassociation.be/news//blog/2014/01/18/thomas-spaas-debates-on-de-vrije-markt</id>
     <content type="html"><![CDATA[<p><em>Thomas Spaas</em> debates about Bitcoin with Professor Gert Peersman on <a href="http://www.deredactie.be/permalink/1.1838046">De Vrije Markt</a>, the program of the Flemish public broadcaster VRT focusing on economic news.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Jérémie Dubois-Lacoste on regional TV]]></title>
-    <link href="http://www.bitcoinassociation.be/news//blog/2014/01/17/jeremie-dubois-lacoste-on-regional-tv/"/>
-    <updated>2014-01-17T21:59:44+01:00</updated>
-    <id>http://www.bitcoinassociation.be/news//blog/2014/01/17/jeremie-dubois-lacoste-on-regional-tv</id>
-    <content type="html"><![CDATA[<p>In the magazine <a href="http://www.telebruxelles.net/portail/emissions/magazines-a-voir-en-ligne/m-le-mag-de-la-redac/29569-m-17012014">#M</a> of the regional TV <em>&ldquo;Télé Bruxelles&rdquo;</em>, <em>Jérémie Dubois-Lacoste</em> presents the basics of Bitcoin, along with Lawrence Flessie, from <a href="http://www.pizza.be">Pizza.be</a>.</p>
 ]]></content>
   </entry>
   
