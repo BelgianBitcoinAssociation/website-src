@@ -4,7 +4,7 @@
   <title><![CDATA[Belgian Bitcoin Association]]></title>
   <link href="http://www.bitcoinassociation.be/news//atom.xml" rel="self"/>
   <link href="http://www.bitcoinassociation.be/news//"/>
-  <updated>2014-10-02T14:19:26+02:00</updated>
+  <updated>2014-11-16T15:02:14+01:00</updated>
   <id>http://www.bitcoinassociation.be/news//</id>
   <author>
     <name><![CDATA[Belgian Bitcoin Association]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The mother of all cryptocurrency meetups]]></title>
+    <link href="http://www.bitcoinassociation.be/news//blog/2014/10/18/the-mother-of-all-cryptocurrency-meetups/"/>
+    <updated>2014-10-18T00:00:00+02:00</updated>
+    <id>http://www.bitcoinassociation.be/news//blog/2014/10/18/the-mother-of-all-cryptocurrency-meetups</id>
+    <content type="html"><![CDATA[<p>The Belgian Bitcoin Association co-organized <a href="http://www.meetup.com/Bitcoin-Brussels/events/208626782/">The mother of all cryptocurrency meetups</a> in Antwerpen on October 18th.  People from three Belgian Bitcoin meetups (Antwerpen, Brussels, Ghent) gathered for a great afternoon (and some more additional drinks afterwards…).</p>
+
+<p>Topics addressed included: pizza &amp; sushi ordering with Bitcoin, presentation &amp; support to Ghent Bitcoin Boulevard, Frank Bass and Bitcoin Adoption, Trezor Demo, Q&amp;A &ndash; Belgian Bitcoin Association.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[EURO BITCOIN postponed]]></title>
@@ -290,15 +301,6 @@ IRIDIA was ook een van de eerste en grootste incubators van de Belgische Bitcoin
     <updated>2014-01-21T22:06:55+01:00</updated>
     <id>http://www.bitcoinassociation.be/news//blog/2014/01/21/jeremie-dubois-lacoste-chats-at-rtbf-website</id>
     <content type="html"><![CDATA[<p><em>Jérémie Dubois-Lacoste</em> answers readers&#8217; questions on technical and regulatory aspects of bitcoin in a <a href="http://www.rtbf.be/info/economie/detail_faut-il-se-mefier-du-bitcoin-la-monnaie-virtuelle-chat-a-12h?id=8181072">live chat</a> on the RTBF website.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Thomas Spaas debates on De Vrije Markt]]></title>
-    <link href="http://www.bitcoinassociation.be/news//blog/2014/01/18/thomas-spaas-debates-on-de-vrije-markt/"/>
-    <updated>2014-01-18T22:05:16+01:00</updated>
-    <id>http://www.bitcoinassociation.be/news//blog/2014/01/18/thomas-spaas-debates-on-de-vrije-markt</id>
-    <content type="html"><![CDATA[<p><em>Thomas Spaas</em> debates about Bitcoin with Professor Gert Peersman on <a href="http://www.deredactie.be/permalink/1.1838046">De Vrije Markt</a>, the program of the Flemish public broadcaster VRT focusing on economic news.</p>
 ]]></content>
   </entry>
   
