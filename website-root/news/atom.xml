@@ -4,7 +4,7 @@
   <title><![CDATA[Belgian Bitcoin Association]]></title>
   <link href="http://www.bitcoinassociation.be/news//atom.xml" rel="self"/>
   <link href="http://www.bitcoinassociation.be/news//"/>
-  <updated>2014-11-16T15:37:06+01:00</updated>
+  <updated>2014-11-16T16:21:35+01:00</updated>
   <id>http://www.bitcoinassociation.be/news//</id>
   <author>
     <name><![CDATA[Belgian Bitcoin Association]]></name>
@@ -41,6 +41,15 @@
     <content type="html"><![CDATA[<p>The Belgian Bitcoin Association co-organized <a href="http://www.meetup.com/Bitcoin-Brussels/events/208626782/">The mother of all cryptocurrency meetups</a> in Antwerpen on October 18th.  People from three Belgian Bitcoin meetups (Antwerpen, Brussels, Ghent) gathered for a great afternoon (and some more additional drinks afterwards…).</p>
 
 <p>Topics addressed included: pizza &amp; sushi ordering with Bitcoin, presentation &amp; support to Ghent Bitcoin Boulevard, Frank Bass and Bitcoin Adoption, Trezor Demo, Q&amp;A &ndash; Belgian Bitcoin Association.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Bitcoin session at the Belgian Finance Club]]></title>
+    <link href="http://www.bitcoinassociation.be/news//blog/2014/10/15/bitcoin-session-at-the-belgian-finance-club/"/>
+    <updated>2014-10-15T00:00:00+02:00</updated>
+    <id>http://www.bitcoinassociation.be/news//blog/2014/10/15/bitcoin-session-at-the-belgian-finance-club</id>
+    <content type="html"><![CDATA[<p>Thomas Spaas, Jérémie Dubois-Lacoste, <a href="http://www.bitcoinassociation.be/#/about">directors at the Belgian Bitcoin Association</a>, and David Boveington-Fauran, <a href="http://www.bitcoinassociation.be/#/members">member of the Belgian Bitcoin Association</a> and <a href="http://www.ebtm.be">founder of EBTM</a>, were speakers at the Belgian Finance Club on <a href="http://emailing.synchrone.be/t/ViewEmail/t/3A52E005C79BECA5/1FCBF988B467E4A1D9767B6002735221">October 15th</a>.</p>
 ]]></content>
   </entry>
   
@@ -294,15 +303,6 @@ IRIDIA was ook een van de eerste en grootste incubators van de Belgische Bitcoin
 
 
 <p>Our registration number: 0546.540.263</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Thomas Spaas interview on Dogecoin]]></title>
-    <link href="http://www.bitcoinassociation.be/news//blog/2014/01/28/thomas-spaas-interview-on-dogecoin/"/>
-    <updated>2014-01-28T22:09:35+01:00</updated>
-    <id>http://www.bitcoinassociation.be/news//blog/2014/01/28/thomas-spaas-interview-on-dogecoin</id>
-    <content type="html"><![CDATA[<p>Interview of Thomas Spaas on dogecoin at the radio 1 show <a href="http://www.radio1.be/programmas/de-ochtend">De ochtend</a>.</p>
 ]]></content>
   </entry>
   

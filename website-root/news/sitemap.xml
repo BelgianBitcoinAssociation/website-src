@@ -152,6 +152,12 @@
     </url>
     <url>
         <loc>
+            http://www.bitcoinassociation.be/news//blog/2014/10/15/bitcoin-session-at-the-belgian-finance-club/
+        </loc>
+        <lastmod>2014-11-16T16:21:30+01:00</lastmod>
+    </url>
+    <url>
+        <loc>
             http://www.bitcoinassociation.be/news//blog/2014/10/18/the-mother-of-all-cryptocurrency-meetups/
         </loc>
         <lastmod>2014-11-16T15:11:33+01:00</lastmod>
@@ -160,13 +166,13 @@
         <loc>
             http://www.bitcoinassociation.be/news//blog/2014/10/21/bitcoin-presented-at-the-katholieke-hogeschool-limburg/
         </loc>
-        <lastmod>2014-11-16T15:34:19+01:00</lastmod>
+        <lastmod>2014-11-16T15:42:22+01:00</lastmod>
     </url>
     <url>
         <loc>
             http://www.bitcoinassociation.be/news//blog/2014/10/22/bitcoin-discussed-at-the-european-banking-association/
         </loc>
-        <lastmod>2014-11-16T15:37:00+01:00</lastmod>
+        <lastmod>2014-11-16T15:42:22+01:00</lastmod>
     </url>
     <url>
         <loc>http://www.bitcoinassociation.be/news//assets/bootstrap/docs/about.html</loc>
@@ -192,7 +198,7 @@
     </url>
     <url>
         <loc>http://www.bitcoinassociation.be/news//assets/bootstrap/docs/</loc>
-        <lastmod>2014-11-16T15:37:00+01:00</lastmod>
+        <lastmod>2014-11-16T16:21:30+01:00</lastmod>
     </url>
     <url>
         <loc>http://www.bitcoinassociation.be/news//assets/bootstrap/docs/javascript.html</loc>
@@ -204,11 +210,11 @@
     </url>
     <url>
         <loc>http://www.bitcoinassociation.be/news//blog/archives/</loc>
-        <lastmod>2014-11-16T15:37:00+01:00</lastmod>
+        <lastmod>2014-11-16T16:21:30+01:00</lastmod>
     </url>
     <url>
         <loc>http://www.bitcoinassociation.be/news//</loc>
-        <lastmod>2014-11-16T15:37:00+01:00</lastmod>
+        <lastmod>2014-11-16T16:21:30+01:00</lastmod>
     </url>
     <url>
         <loc>http://www.bitcoinassociation.be/news//robots.txt</loc>
