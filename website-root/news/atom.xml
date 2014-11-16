@@ -4,7 +4,7 @@
   <title><![CDATA[Belgian Bitcoin Association]]></title>
   <link href="http://www.bitcoinassociation.be/news//atom.xml" rel="self"/>
   <link href="http://www.bitcoinassociation.be/news//"/>
-  <updated>2014-11-16T15:02:14+01:00</updated>
+  <updated>2014-11-16T15:37:06+01:00</updated>
   <id>http://www.bitcoinassociation.be/news//</id>
   <author>
     <name><![CDATA[Belgian Bitcoin Association]]></name>
@@ -12,6 +12,26 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Bitcoin discussed at the European Banking Association]]></title>
+    <link href="http://www.bitcoinassociation.be/news//blog/2014/10/22/bitcoin-discussed-at-the-european-banking-association/"/>
+    <updated>2014-10-22T00:00:00+02:00</updated>
+    <id>http://www.bitcoinassociation.be/news//blog/2014/10/22/bitcoin-discussed-at-the-european-banking-association</id>
+    <content type="html"><![CDATA[<p>Jérémie Dubois-Lacoste and Jean Wallemacq, both <a href="http://www.bitcoinassociation.be/#/about">directors at the Belgian Bitcoin Association</a>, introduced cryptocurrencies at the Working Group on Electronic Alternative Payments of the <a href="https://www.abe-eba.eu/Home-N=HomeEBA-L=EN.aspx">Euro Banking Association</a> on October 22nd.</p>
+
+<p>Topics included: General introduction to Bitcoin &amp; to the blockchain technology, alternative cryptocurrencies, notary use of the blockchain and other, non-traditional, use of the blockchain technology.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Bitcoin presented at the Katholieke Hogeschool Limburg]]></title>
+    <link href="http://www.bitcoinassociation.be/news//blog/2014/10/21/bitcoin-presented-at-the-katholieke-hogeschool-limburg/"/>
+    <updated>2014-10-21T00:00:00+02:00</updated>
+    <id>http://www.bitcoinassociation.be/news//blog/2014/10/21/bitcoin-presented-at-the-katholieke-hogeschool-limburg</id>
+    <content type="html"><![CDATA[<p>Chris D’Costa, <a href="http://www.bitcoinassociation.be/#/about">director at the Belgian Bitcoin Association</a>, was a featured speaker at the &ldquo;Bank of the Future&rdquo; workshop held on October 21st at the <a href="http://www.khlim.be/">Katholieke Hogeschool Limburg</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The mother of all cryptocurrency meetups]]></title>
@@ -283,24 +303,6 @@ IRIDIA was ook een van de eerste en grootste incubators van de Belgische Bitcoin
     <updated>2014-01-28T22:09:35+01:00</updated>
     <id>http://www.bitcoinassociation.be/news//blog/2014/01/28/thomas-spaas-interview-on-dogecoin</id>
     <content type="html"><![CDATA[<p>Interview of Thomas Spaas on dogecoin at the radio 1 show <a href="http://www.radio1.be/programmas/de-ochtend">De ochtend</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Thomas Spaas interviewed on Radio 2]]></title>
-    <link href="http://www.bitcoinassociation.be/news//blog/2014/01/23/thomas-spaas-interviewed-on-radio-2/"/>
-    <updated>2014-01-23T22:08:22+01:00</updated>
-    <id>http://www.bitcoinassociation.be/news//blog/2014/01/23/thomas-spaas-interviewed-on-radio-2</id>
-    <content type="html"><![CDATA[<p>Thomas Spaas is interviewed on the Radio 2 programme <a href="http://www.radio2.be/inspecteur-decaluwe/bitcoin">Inspecteur de Caluwé</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Jérémie Dubois-Lacoste chats at RTBF website]]></title>
-    <link href="http://www.bitcoinassociation.be/news//blog/2014/01/21/jeremie-dubois-lacoste-chats-at-rtbf-website/"/>
-    <updated>2014-01-21T22:06:55+01:00</updated>
-    <id>http://www.bitcoinassociation.be/news//blog/2014/01/21/jeremie-dubois-lacoste-chats-at-rtbf-website</id>
-    <content type="html"><![CDATA[<p><em>Jérémie Dubois-Lacoste</em> answers readers&#8217; questions on technical and regulatory aspects of bitcoin in a <a href="http://www.rtbf.be/info/economie/detail_faut-il-se-mefier-du-bitcoin-la-monnaie-virtuelle-chat-a-12h?id=8181072">live chat</a> on the RTBF website.</p>
 ]]></content>
   </entry>
   
