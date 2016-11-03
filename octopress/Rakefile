@@ -6,7 +6,7 @@ require "stringex"
 # Be sure your public key is listed in your server's ~/.ssh/authorized_keys file
 ssh_user       = ""
 ssh_port       = ""
-document_root  = "../website-root/news"
+document_root  = "../belgianbitcoinassociation.github.io.git/news"
 rsync_delete   = false
 rsync_args     = ""  # Any extra arguments to pass to rsync
 deploy_default = "rsync"
